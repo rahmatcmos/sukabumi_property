@@ -1,0 +1,19 @@
+push 
+	- git add .
+	- git add app
+	- git add -u
+
+commit
+	- git commit -m "ddsdssds"
+	- git push origin name-branch
+
+
+new branch
+ - git -b checkout staging
+ - git -b checkout production
+
+change branch 
+ - git checkout name-bracnh
+
+check branch
+ - git branh
