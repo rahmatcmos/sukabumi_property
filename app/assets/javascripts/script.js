@@ -16,7 +16,7 @@ $(document).ready(function () {
 
 // loading page
 $(document).ready(function () {
-		$(window).load(function() { $("#loading").fadeOut("slow"); 
+		$(window).load(function() { $("#loading").fadeOut(5000); 
 	});
 });
 
