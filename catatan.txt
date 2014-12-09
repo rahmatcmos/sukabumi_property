@@ -19,9 +19,6 @@ check branch
  - git branh
 
 
-
-
-
  local variabel 		-> nama = ""
  instance variabel 	-> @nama = ""
  class variabel 		-> @@nama= ""
